@@ -20,7 +20,5 @@ int main()
     cout << "Character " << (char)it.first << " appears " << it.second << " times" << endl; 
   }
 
-  vector<int> palindromes = { 121, 18281, 32123, 5445 };
-
   return 0;
 }
